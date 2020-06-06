@@ -19,11 +19,6 @@ proceed() {
   cp -f $MODPATH/system/fonts/Regular.otf $MODPATH/system/fonts/NotoSerifBengali-Regular.ttf
   # For Android 5
   cp -f $MODPATH/system/fonts/Regular.otf $MODPATH/system/fonts/DroidSansBengali.ttf
-  # For Samsung
-  cp -f $MODPATH/system/fonts/Bold.otf $MODPATH/system/fonts/SECBengali-Bold.ttf
-  cp -f $MODPATH/system/fonts/BoldUI.otf $MODPATH/system/fonts/SECBengaliUI-Bold.ttf
-  cp -f $MODPATH/system/fonts/Regular.otf $MODPATH/system/fonts/SECBengali-Regular.ttf
-  cp -f $MODPATH/system/fonts/RegularUI.otf $MODPATH/system/fonts/SECBengaliUI-Regular.ttf
   ui_print " "
 }
 

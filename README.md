@@ -14,6 +14,10 @@ This module systemlessly replaces your default Bengali (Bangla) font with Atma.
 * Support for Bold, Medium and Regular TypeFace
 
 ## Changelog
+### v1.05 - 07.06.2020
+* Removed all Samsung support.
+### v1.04 - 04.06.2020
+* Added support for Samsung Android 10.
 ### v1.03 - 22.01.2020
 * Added option to cancel installation.
 * Updated to MMT-Ex template v1.3.
